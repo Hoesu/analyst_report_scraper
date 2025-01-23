@@ -93,6 +93,7 @@ dependencies:
       - pure-eval==0.2.3
       - pygments==2.19.1
       - python-dateutil==2.9.0.post0
+      - python-dotenv==1.0.1
       - s3transfer==0.11.1
       - stack-data==0.6.3
       - traitlets==5.14.3
